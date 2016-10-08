@@ -1,0 +1,44 @@
+{
+    "name": "keypad", 
+    "repository": {
+        "url": "https://developer.mbed.org/users/yoonghm/code/keypad/", 
+        "type": "hg"
+    }, 
+    "platforms": [
+        "freescalekinetis", 
+        "teensy", 
+        "nxplpc", 
+        "nordicnrf51", 
+        "ststm32"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "version": "da060f8c03", 
+    "examples": [
+        "https://developer.mbed.org/users/daryl2110/code/FYPFinalProgram/", 
+        "https://developer.mbed.org/users/daryl2110/code/FYPFinalizeProgram/", 
+        "https://developer.mbed.org/users/ficofer/code/KEYS/", 
+        "https://developer.mbed.org/users/sherckuith/code/Proyect_Patric_electronic_door_MSC_Ok_ES/", 
+        "https://developer.mbed.org/users/salondonog/code/Tarea6/", 
+        "https://developer.mbed.org/users/avallejopo/code/Tarea6/", 
+        "https://developer.mbed.org/users/amarincan/code/tarea6keypad/", 
+        "https://developer.mbed.org/users/mandres7/code/Teclado/", 
+        "https://developer.mbed.org/users/lcorralesc1/code/Tarea6_Teclado/", 
+        "https://developer.mbed.org/users/yoonghm/code/_library_keypad/"
+    ], 
+    "authors": [
+        {
+            "url": "https://developer.mbed.org/users/yoonghm/", 
+            "maintainer": false, 
+            "email": null, 
+            "name": "HM Yoong"
+        }
+    ], 
+    "keywords": [
+        "interrupt", 
+        "keypad"
+    ], 
+    "id": 271, 
+    "description": "An interrupt-driven interface to 4x4 keypad."
+}
